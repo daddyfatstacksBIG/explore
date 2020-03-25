@@ -11,4 +11,9 @@ topic: raku
 url: https://www.raku.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Raku_(programming_language)
 ---
-Raku is an expressive and feature-rich programming language designed by Larry Wall and developed by the community. Features include: object-oriented programming, functional programming primitives, parallelism, concurrency, asynchrony, definable grammars for pattern matching and generalized string processing, and optional and gradual typing.
+
+Raku is an expressive and feature-rich programming language designed by Larry
+Wall and developed by the community. Features include: object-oriented
+programming, functional programming primitives, parallelism, concurrency,
+asynchrony, definable grammars for pattern matching and generalized string
+processing, and optional and gradual typing.

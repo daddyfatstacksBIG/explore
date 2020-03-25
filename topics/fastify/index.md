@@ -10,4 +10,6 @@ short_description: Fast and low overhead web framework, for Node.js.
 topic: fastify
 url: http://fastify.io/
 ---
-Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture.
+
+Fastify is a web framework highly focused on providing the best developer
+experience with the least overhead and a powerful plugin architecture.

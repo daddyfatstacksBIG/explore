@@ -9,4 +9,7 @@ topic: myanimelist
 url: https://myanimelist.net/
 wikipedia_url: https://en.wikipedia.org/wiki/MyAnimeList
 ---
-MyAnimeList, often abbreviated as MAL, is an online forum and anime-manga database. The site provides its users with a list-like system to organize and score anime and manga.
+
+MyAnimeList, often abbreviated as MAL, is an online forum and anime-manga
+database. The site provides its users with a list-like system to organize and
+score anime and manga.

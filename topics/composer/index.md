@@ -11,4 +11,6 @@ topic: composer
 url: https://getcomposer.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Composer_(software)
 ---
-Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and manage them for you.
+
+Composer is a tool for dependency management in PHP. It allows you to declare
+the libraries your project depends on and manage them for you.
